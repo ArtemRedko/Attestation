@@ -1,0 +1,14 @@
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.AssemblyInfoInputs.cache
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.AssemblyInfo.cs
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.csproj.CoreCompileInputs.cache
+C:\Users\redko\OneDrive\Рабочий стол\КР\bin\Debug\net7.0\КР.exe
+C:\Users\redko\OneDrive\Рабочий стол\КР\bin\Debug\net7.0\КР.deps.json
+C:\Users\redko\OneDrive\Рабочий стол\КР\bin\Debug\net7.0\КР.runtimeconfig.json
+C:\Users\redko\OneDrive\Рабочий стол\КР\bin\Debug\net7.0\КР.dll
+C:\Users\redko\OneDrive\Рабочий стол\КР\bin\Debug\net7.0\КР.pdb
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.dll
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\refint\КР.dll
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.pdb
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\КР.genruntimeconfig.cache
+C:\Users\redko\OneDrive\Рабочий стол\КР\obj\Debug\net7.0\ref\КР.dll
